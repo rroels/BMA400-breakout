@@ -3,6 +3,9 @@
 > [!WARNING]
 > The information and material (code, designs, files, ...) are provided "AS IS". We make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information or material. Use this at your own risk.
 
+> [!WARNING]
+> At the time of writing this PCB has not even been produced yet, and as such, it has not even been tested yet! Once it has been properly tested, I will confirm that everything works as expected.
+
 ## Introduction
 
 This is a breakout board for the Bosch BMA400 acceleration sensor.
