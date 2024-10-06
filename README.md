@@ -16,6 +16,9 @@ This is a breakout board for the Bosch BMA400 acceleration sensor.
 
 ## Change Log
 
+* v1.1
+  * Modified BMA400 footprint for easier soldering by hand
+
 * v1.0
   * Initial design 
 
@@ -32,7 +35,7 @@ This is a breakout board for the Bosch BMA400 acceleration sensor.
 
 <img src="images/pcb.png" width="600">
 
-The Gerber file is in this repository (`kicad/gerbers/BMA400-breakout.zip`). Simply upload this file a PCB manufacturer of your choice (JLPCB, PCBWay, ...), and you they will make it for you for as low as \$5 for 5 pieces (with the cheapest shipping option, which can take a few weeks).
+The Gerber file is in this repository (`gerbers/BMA400-breakout.zip`). Simply upload this file a PCB manufacturer of your choice (JLPCB, PCBWay, ...), and you they will make it for you for as low as \$5 for 5 pieces (with the cheapest shipping option, which can take a few weeks).
 
 For JLCPCB, select the order number option where they will replace "JLCJLCJLCJLC" on the board with the actual order number.
 
